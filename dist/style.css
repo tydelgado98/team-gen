@@ -1,0 +1,36 @@
+/* * {
+  
+} */
+
+body {
+    background: lightseagreen;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card:hover {
+    box-shadow: 0 0 8px 4px lightcoral;
+}
+
+.card {
+    border: 4px solid lightslategrey;
+    border-radius: 8px;
+    margin: 25px;
+}
+
+header {
+    font-size: 30px
+}
+.card h1 {
+    background: teal;
+    color: darkslategray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card h3{
+    font-size: 23px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
