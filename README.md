@@ -2,7 +2,7 @@
   (https://img.shields.io/badge/license-mit-blue)
   ## Description
   
-  - It makes the process of the readme that much easier.. 
+  - We can make simple yet clean html cards based on the users input on salary, name of worker, office number, and id.
   
   ## Installation
   
@@ -21,6 +21,9 @@
   ## Credits
   
   Justin Delgado
+
+  # Video
+  [![video recording](videos/teamgen.png)](videos/Team%20Generator.webm)
   
   ## License
   
